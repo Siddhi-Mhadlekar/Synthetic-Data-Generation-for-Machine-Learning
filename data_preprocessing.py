@@ -19,6 +19,6 @@ df["label"] = "synthetic"
 spark_df = spark.createDataFrame(df)
 
 # Save as Parquet file
-spark_df.write.parquet("data/images.parquet")
+spark_df.write.parquet("data/processed/images.parquet")
 
 print("Data preprocessing completed.")
