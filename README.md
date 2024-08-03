@@ -1,4 +1,3 @@
-# synthetic_data_generation
 # Synthetic Data Generation for Machine Learning
 
 ## Objective
