@@ -15,7 +15,7 @@ def generate_images(generator, num_images=10):
     for i in range(num_images):
         plt.imshow(generated_images[i, :, :, 0], cmap='gray')
         plt.axis('off')
-        plt.savefig(f"data/generated_image_{i}.png")
+        plt.savefig(f"data/generated/generated_image_{i}.png")
         plt.show()
 
 # Generate and save synthetic images
