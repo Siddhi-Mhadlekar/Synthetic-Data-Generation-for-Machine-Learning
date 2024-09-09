@@ -31,8 +31,8 @@ This project leverages a cracked phone image dataset to train a Generative Adver
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/synthetic_data_generation.git
-   cd synthetic_data_generation
+   git clone https://github.com/Siddhi-Mhadlekar/Synthetic-Data-Generation-for-Machine-Learning.git
+   
 
 2. Install dependencies: pip install -r requirements.txt
 3. Run the scripts:
